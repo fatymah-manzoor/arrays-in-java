@@ -1,0 +1,28 @@
+public class MyFirstJava11
+{
+public static void main(String args[])
+
+ {
+int newarray[];
+
+newarray=new int[12];
+newarray[0]=31;
+newarray[1]=30;
+newarray[2]=22;
+newarray[3]=21;
+newarray[4]=23;
+newarray[5]=24;
+newarray[6]=45;
+newarray[7]=68;
+newarray[8]=34;
+newarray[9]=11;
+newarray[10]=19;
+newarray[11]=56;
+
+
+     System.out.println(newarray[1]);
+    
+ }
+ 
+
+}
