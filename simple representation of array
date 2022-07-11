@@ -1,0 +1,17 @@
+public class MyFirstJava1
+{
+public static void main(String args[])
+
+ {
+int newarray[];
+int i;
+newarray=new int[50];
+for (i=0;i<50;i++)
+{
+	newarray[i]=i;
+
+     System.out.println(newarray[i])  
+}
+
+ }
+}
